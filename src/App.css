@@ -1,0 +1,18 @@
+@import "~antd/dist/antd.css";
+
+.App {
+  text-align: center;
+  margin: 0 20px;
+}
+.meme_image {
+	max-width: 25vw;
+	display: block;
+  }
+  
+  
+.App-header{
+	font-size: 50px;
+}
+.desc{
+	font-size: 20px;
+}
